@@ -9,5 +9,11 @@ COMPONENT           VERSION
 pachctl             2.5.3
 pachd               2.5.3
 
+
+# https://docs.pachyderm.com/latest/deploy-manage/manage/pachctl-shell/
+
+# https://github.com/pachyderm/pachyderm/tree/master/examples/word_count
+
+
 ```
 
